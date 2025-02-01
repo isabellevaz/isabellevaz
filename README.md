@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isabelle
-- 🌱 I’m currently learning cs/data science @pitt
+- 🌱 I’m currently learning data science @pitt
 - 📫 How to reach me ijv4@pitt.edu
 
 
